@@ -1,4 +1,3 @@
-
 connection: "snowlooker"
 
 # include all the views
@@ -9,7 +8,7 @@ datagroup: demo_looker_default_datagroup {
   max_cache_age: "1 hour"
 }
 
-#persist_with: demo_looker_default_datagroup
+persist_with: demo_looker_default_datagroup
 
 explore: distribution_centers {}
 
