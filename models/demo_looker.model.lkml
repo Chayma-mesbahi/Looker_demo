@@ -1,5 +1,6 @@
 connection: "snowlooker"
 
+# Bonjour Chayma !!!
 # include all the views
 include: "/views/**/*.view"
 
